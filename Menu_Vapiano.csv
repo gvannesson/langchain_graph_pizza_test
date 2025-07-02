@@ -1,0 +1,73 @@
+Plat,Prix (€),Ingrédients,Catégorie
+Bruschetta (Antipasti),"3,70","Ciabatta, tomates marinées, huile d’olive, ail, origan, basilic",Antipasti
+Carpaccio de Charolais,"11,00","Filet de bœuf charolais, sauce cipriani, tomates cerises, roquette, fromage italien",Antipasti
+"Bière Morena 0,33L","4,50",-,Boissons
+"Orangina 0,25L","3,40",-,Boissons
+"Orangina 0,33L","3,70",-,Boissons
+"San Pellegrino 0,5L","2,85",-,Boissons
+San Pellegrino 1L,"4,85",-,Boissons
+"Vapiano Ice Tea 0,5L","4,10",-,Boissons
+"Vittel 0,5L","2,75",-,Boissons
+Vittel 1L,"4,75",-,Boissons
+Crema di Fragola Classique,"3,20","Crème de mascarpone, fraises fraîches",Dolci
+Crema di Fragola Grand,"6,20","Crème de mascarpone, fraises fraîches",Dolci
+Mousse au chocolat (Kids),"3,20",Mousse au chocolat onctueuse et aérienne,Dolci
+Panna cotta,"3,20","Crème vanillée, coulis de fraise",Dolci
+Tiramisu Classique,"3,20","Crème de mascarpone, biscuits à la cuillère, café, liqueur, crème, cacao",Dolci
+Tiramisu Grand,"6,20","Crème de mascarpone, biscuits à la cuillère, café, liqueur, crème, cacao",Dolci
+Champignons,"1,80",Champignons,Extras
+Crevettes,"3,90",Crevettes,Extras
+Feta,"3,50",Feta,Extras
+Fromage italien,"1,00",Fromage italien,Extras
+Gorgonzola,"1,60",Gorgonzola,Extras
+Jambon cru ou cuit,"2,50",Jambon,Extras
+Mozzarella di bufala (add-on),"3,80",Mozzarella di bufala,Extras
+Olives,"1,60",Olives,Extras
+Pasta (add-on),"3,00",Pâtes,Extras
+Pepperoni (add-on),"1,60",Pepperoni,Extras
+Pignons,"0,80",Pignons de pin,Extras
+Poulet,"3,30",Poulet,Extras
+Poulet Barbecue,"3,80",Poulet Barbecue,Extras
+Roquette,"1,80",Roquette,Extras
+Saumon,"3,30",Saumon,Extras
+Scamorza,"0,80",Scamorza,Extras
+Thon,"3,30",Thon,Extras
+Tomates cerise (add-on),"1,80",Tomates cerise,Extras
+Épinards,"1,80",Épinards,Extras
+Œuf,"1,50",Œuf,Extras
+Caprese,"10,00","Tomates cerises, mozzarella di bufala, basilic, roquette",Insalata
+Cesare pollo,"13,20","Laitue romaine, croûtons, fromage italien, poulet",Insalata
+Cesare scampi,"13,80","Laitue romaine, croûtons, fromage italien, crevettes",Insalata
+Crudo (Salade),"12,70","Salades, épinards, roquette, tomates cerises, concombre, gorgonzola, fraises, noix, jambon cru",Insalata
+Greco,"11,20","Salades, feta, concombre, tomates cerises, olives noires, câpres, oignons rouges",Insalata
+Mista della casa,"10,40","Salades, tomates cerises, carottes, courgettes, oignons rouges, champignons, cébettes, concombre, poivrons, fromage italien",Insalata
+Niçoise,"11,40","Salades, thon, olives, tomates cerises, oignons verts et rouges, pois gourmands, œuf, pommes de terre",Insalata
+Salade croquante,"2,50","Salades, carottes, tomates cerises",Insalata
+Scampi Cipriani,"13,30","Romaine, crevettes, tomates marinées, pommes de terre, olives, oignons verts, croûtons, sauce cipriani",Insalata
+Bolognese,"12,50","Ragoût de bœuf, oignons, céleri, carottes, sauce maison",Pasta
+Carbonara,"12,50","Lardons, oignons, sauce crémeuse, œuf, fromage italien, persil",Pasta
+Carbonara Salmone,"12,50","Saumon, oignons, sauce crémeuse, œuf, fromage italien, persil",Pasta
+Chicken alfredo,"13,90","Poulet, champignons, œuf, oignons balsamique, muscade, fromage italien",Pasta
+Crema di Funghi,"10,50","Champignons, oignons balsamique, muscade, vin blanc, crème, persil",Pasta
+Macaroni Regressi,"10,50","Tomates cerises, oignons, sauce tomate, mozzarella",Pasta
+Quattro formaggi (Pasta),"14,10","Crème, gorgonzola, burrata, chèvre, roquette, noisettes torréfiées",Pasta
+SCAMPI E SPINACI,"14,40","Crevettes, pesto, crème, tomates cerises, muscade, fromage italien, pousses d’épinards",Pasta
+ravioli con carne,"13,70","Ravioli maison à la bolognaise, tomates cerises, oignons, sauce tomate maison",Pasta
+scampi e salmone,"14,40","Saumon, crevettes, sauce au fromage, ail, oignons, tomates cerises, épinards, persil",Pasta
+scampi piccante,"14,40","Crevettes, oignons, courgettes, piments, citron, tomates cerises, sauce pesto",Pasta
+BBQ CHICKEN,"14,40","Poulet, sauce tomate barbecue maison, tomates marinées, scamorza, oignons rouges",Pizza
+Bruschetta,"11,50","Tomates marinées, roquette, fromage italien, sauce tomate, mozzarella",Pizza
+Calzone,"12,50","Pepperoni, jambon cuit italien, thym, romarin, champignons, sauce tomate, mozzarella",Pizza
+Cannibale,"14,40","Pepperoni, viande hachée, scamorza, poivrons, oignons, sauce barbecue, mozzarella",Pizza
+Crudo,"13,50","Jambon cru italien, fromage italien, sauce tomate, mozzarella",Pizza
+Funghi (Pizza),"10,30","Champignons frais, sauce tomate maison, mozzarella",Pizza
+Margherita CLASSICA,"10,30","Sauce tomate maison, mozzarella",Pizza
+Margherita di bufala,"12,30","Sauce tomate maison, mozzarella di bufala",Pizza
+Montagna,"14,40","Pommes de terre, lardons, œuf, crème, mozzarella",Pizza
+Pepperoni,"12,50","Pepperoni, poivrons, piments verts, oignons rouges, sauce tomate, mozzarella",Pizza
+Pesto Basilico,"10,50","Pesto basilic, pignons de pin grillés, fromage italien",Pizza
+Pomodoro,"10,50","Sauce tomate maison, oignons",Pizza
+QUATTRO FORMAGGI (Pizza),"14,10","Mozzarella, gorgonzola, chèvre, burrata, roquette, noisettes torréfiées, crème",Pizza
+Regina del re,"12,50","Jambon cuit italien, champignons, sauce tomate, mozzarella",Pizza
+Tonno,"12,50","Thon, oignons rouges, sauce tomate maison, mozzarella",Pizza
+pesto e salmone,"13,50","Saumon, fondue de poireaux, citron, tomates cerises, sauce pesto, mozzarella",Pizza
